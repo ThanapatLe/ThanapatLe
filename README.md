@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
 	<img src="pics/header.png">
 </p>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=amankr1619&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+</p> -->
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
