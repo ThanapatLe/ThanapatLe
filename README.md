@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>🎓 &nbsp;I'm currently a final year undergraduate studying Computer Science Engineering at <a href = "https://iiitn.ac.in/">IIIT Nagpur</a>.</p>
+<p>🎓 &nbsp;I'm currently a final year undergraduate studying Infomation technology at KMUTT <a href = "https://www.sit.kmutt.ac.th/">SIT KMUTT</a>.</p>
 <p>🔭 &nbsp;I’m currently working as a Google Summer of Code Intern at <a href="https://www.gnome.org/">GNOME Organization</a>.</p>
 <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
 <p>🌱 &nbsp;I'm on track for learning more about Systems Design, Rust, and get into Open Source.</p>
