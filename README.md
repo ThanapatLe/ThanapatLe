@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 &nbsp;About Me:
 
 <p>🎓 &nbsp;I'm currently a final year undergraduate studying Infomation technology at KMUTT <a href = "https://www.sit.kmutt.ac.th/">SIT KMUTT</a>.</p>
+<p>- 🌱 &nbsp;I’m currently learning **to be a frontend developer.</p>
+<p> 📫 &nbsp;How to reach me **thanapat.tle@mail.kmutt.ac.th </p>
+<!-- <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/11rWbsS1zyjlc9fwDjUv29cuRmsLjUmQ4/view?usp=sharing">Résumé</a> for more details about me.</p> -->
+<br />
 <!-- <p>🔭 &nbsp;I’m currently working as a Google Summer of Code Intern at <a href=""></a>.</p> -->
 <!-- <p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p> -->
 <!-- <p>🌱 &nbsp;I'm on track for learning more about Systems Design, Rust, and get into Open Source.</p> -->
 <!-- <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p> -->
-<p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/11rWbsS1zyjlc9fwDjUv29cuRmsLjUmQ4/view?usp=sharing">Résumé</a> for more details about me.</p>
-
-<br />
 
 ## 🛠 &nbsp;Tech Stack:
 
