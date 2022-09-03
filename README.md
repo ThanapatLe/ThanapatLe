@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!-- 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" /> -->
-<img width="60%" hight="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanapatle&count_private=true&theme=dark&show_icons=true" alt="thanapatle" />
+<img width="60%" hight="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanapatle&theme=dark&show_icons=true" alt="thanapatle" />
 <!-- 	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ThanapatLe&theme=dark&show_icons=true" alt="ThanapatLe" /> -->
 </p>
 
