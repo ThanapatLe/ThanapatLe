@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p>🎓 &nbsp;I'm currently a final year undergraduate studying Infomation technology at KMUTT <a href = "https://www.sit.kmutt.ac.th/">SIT KMUTT</a>.</p>
 <p>🌱 &nbsp;I’m currently learning to be a frontend developer.</p>
-<p>📫 &nbsp;How to reach me **thanapat.tle@mail.kmutt.ac.th** </p>
+📫 &nbsp;How to reach me **thanapat.tle@mail.kmutt.ac.th** 
 <!-- <p>🧩 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/11rWbsS1zyjlc9fwDjUv29cuRmsLjUmQ4/view?usp=sharing">Résumé</a> for more details about me.</p> -->
 <br />
 <!-- <p>🔭 &nbsp;I’m currently working as a Google Summer of Code Intern at <a href=""></a>.</p> -->
