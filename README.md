@@ -58,10 +58,11 @@ Here are some ideas to get you started:
 
 <hr />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanapatle" alt="thanapatle" /></a> </p>
+
 ## 📈 Statistics
 
 <br/>
-
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanapatle&show_icons=true&locale=en&layout=compact" alt="thanapatle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanapatle&show_icons=true&locale=en" alt="thanapatle" /></p>
