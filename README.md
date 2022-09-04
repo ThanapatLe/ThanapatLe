@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 <hr />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanapatle" alt="thanapatle" /></a> </p>
-
 ## 📈 Statistics
 
 <br/>
@@ -68,6 +66,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanapatle&show_icons=true&locale=en" alt="thanapatle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanapatle&" alt="thanapatle" /></p> -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanapatle" alt="thanapatle" /></a> </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanapatle&hide_border=true&theme=dark&show_icons=true" alt="thanapatle" />
